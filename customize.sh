@@ -1,1 +1,1 @@
-ui_print "Installing Pixel Features..."
+ui_print "- Installing Pixel Features..."
